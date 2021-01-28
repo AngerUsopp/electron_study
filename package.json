@@ -14,7 +14,7 @@
   "author": "wh",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.0.0",
+    "electron": "^9.4.0",
     "electron-builder": "^22.4.1",
     "electron-rebuild": "^1.10.1",
     "ffi-napi": "^2.5.0",
